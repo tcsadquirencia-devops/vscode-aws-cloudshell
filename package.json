@@ -138,7 +138,7 @@
         "@aws-sdk/credential-provider-process": "^3.0.0",
         "@aws-sdk/shared-ini-file-loader": "^3.0.0",
         "aws4": "^1.11.0",
-        "axios": "^0.21.0",
+        "axios": "^0.21.2",
         "axios-cookiejar-support": "^1.0.1",
         "form-data": "^3.0.0",
         "tough-cookie": "^4.0.0",
